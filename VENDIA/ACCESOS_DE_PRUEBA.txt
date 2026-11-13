@@ -1,0 +1,27 @@
+VENDIA | ACCESOS DE PRUEBA (SOLO INSTALACIÓN LOCAL)
+========================================================
+SUPERADMINISTRADOR
+Correo: superadmin.demo.vendia@outlook.com
+Usuario: superadmin.vendia
+Contraseña: Vendia#Admin26!
+
+DUEÑO SOLICITADO
+Usuario: superlissy
+Contraseña: Lisset19.
+Negocio de demostración: La Fondita de Lisset
+
+OTROS DUEÑOS
+Usuario: dueno.abarrotes | Contraseña: Dueno#Demo26
+Usuario: dueno.taller | Contraseña: Dueno#Demo26
+Usuario: dueno.consultorio | Contraseña: Dueno#Demo26
+Usuario: dueno.mercado | Contraseña: Dueno#Demo26
+
+EMPLEADO DEMO
+Usuario: empleado1.1 | Contraseña: Empleado#Demo26
+
+CLIENTE DEMO
+Usuario: cliente1.1 | Contraseña: Cliente#Demo26
+
+Las direcciones con el prefijo vendia.demo no están verificadas ni aseguran un buzón real.
+Si ya existe una cuenta con el mismo nombre de usuario, el SQL la conserva y NO cambia su contraseña.
+Cambia todas las contraseñas de demostración antes de publicar Vendia en internet.
